@@ -1,0 +1,17 @@
+git init - make folder a repository
+git add . - add all files to project
+git commit -m "" - commit files to project
+git status - fide status
+git log
+git config --global user.name "<name>" - create username
+git config --global user.email "<email>" - create email
+git checkout -- <filename> - bring back to good version
+git  config --list - give user settings
+git mv <filename> <newfilename> - rename/move file
+git clone - copies project
+git push - syncs with git hub
+git pull - pulls from git hub
+esc :wq - to get out of commit with no message
+
+woundedrobot
+GoodmanCheftim84@
