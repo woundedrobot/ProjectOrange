@@ -12,6 +12,3 @@ git clone - copies project
 git push - syncs with git hub
 git pull - pulls from git hub
 esc :wq - to get out of commit with no message
-
-woundedrobot
-GoodmanCheftim84@
